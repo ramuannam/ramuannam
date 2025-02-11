@@ -45,21 +45,21 @@ a:hover {
     text-decoration: underline;
 }
 
-.contact-list {
+ .contact-list {
             list-style: none;
             padding: 0;
         }
 .contact-list li {
             margin: 10px 0;
         }
- .contact-list a {
+.contact-list a {
             text-decoration: none;
             color: #000;
-            font-size: 14px;
+            font-size: 18px;
         }
 .contact-list a:hover {
             color: #007bff;
         }
- .icon {
+.icon {
             margin-right: 10px;
         }
