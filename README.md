@@ -2,7 +2,8 @@
 Myself Ramu Annam,a Software Engineer
 
 - 🔭 I’m currently working on my projects.
-- 🌱 I’m currently learning DSA,java, springboot and Microservices.
+- 🌱 DSA,java,springboot and Microservices.
+- 🔥System design: LLD and HLD.
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
